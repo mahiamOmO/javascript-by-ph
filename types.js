@@ -7,3 +7,5 @@ console.log(name);
 
 var isRich = true; //"" na dile hobe keyword hobe
 console.log(isRich)
+
+var passed = false;
