@@ -23,6 +23,7 @@ Address
 //6.how to write a long varible 
 
 var my current home address = "Andonkilki bandorbon";
-
+var mycurrenthomeaddress =  "Andonkilki bandorbon";
+var my_current_home_address = "Andonkilki bandorbon";
 
 
