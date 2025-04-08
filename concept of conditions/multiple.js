@@ -1,4 +1,4 @@
-const salary =  250000;  //cost diye declare korle var change kora jabe na 
+const salary =  250000;  //cost diye declare korle varible change kora jabe na 
 const isBcs = true;
 const = height = 61;
 
