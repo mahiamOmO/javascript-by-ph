@@ -18,5 +18,5 @@ else{
     console.log('bhag tui mogbul');
 }
 
-//more and more conditions
+
 
