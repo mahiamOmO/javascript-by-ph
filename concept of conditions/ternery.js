@@ -28,4 +28,8 @@ if(isLeader){
 else{
     price = price + 100;
 }
-console.log(price);
+//console.log(price);
+
+price = isLeader == true ? 0 : price + 100;
+
+
