@@ -8,5 +8,5 @@ console.log('something new is cooking');
 // -----while--loop-----
 const num = 0;
 while(num<5){
-    console.log('looping');
+    console.log('looping',num);
 }
